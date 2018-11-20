@@ -4,7 +4,7 @@
 <br></br>
 #ecb-respository
 <br></br>
-A collection of ecb 
+A collection from ecb 
 updated on a monthly basis 
 <br></br>
 .<br></br>
