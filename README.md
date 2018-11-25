@@ -4,7 +4,7 @@
 <br></br>
 #ecb-respository
 <br></br>
-A collection from ecb 
+Alternative file formats, images and documentation of ECB MIXTAPES
 updated on a monthly basis 
 <br></br>
 .<br></br>
